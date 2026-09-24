@@ -115,21 +115,6 @@ Full-stack application with a real-time builder, complex state management, and a
 
 ---
 
-## CRM Dashboard
-
-Customer relationship management interface designed in Figma and built with responsive layouts.
-
-### Highlights
-
-* Interactive navbar
-* Dynamic hero banners
-* Responsive layouts
-
-**Stack**
-`React.js` • `Figma`
-
----
-
 # Education
 
 * **MCA** — Lovely Professional University, Punjab *(2023 – 2025, CGPA 7.5)*
