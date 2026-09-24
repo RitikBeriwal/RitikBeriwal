@@ -6,12 +6,7 @@
 
 ### Responsive Web Apps • React Ecosystem • High-Performance UIs
 
-<p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://www.linkedin.com/in/ritik-beriwal/">
     <img src="https://img.shields.io/badge/LinkedIn-Ritik_Beriwal-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
