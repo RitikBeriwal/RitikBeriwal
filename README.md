@@ -1,150 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Ritik%20Beriwal&fontSize=42&fontAlign=50&fontAlignY=35&color=0:0f172a,100:2563eb&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Ritik%20Beriwal&fontSize=55&fontColor=ffffff&color=0:0f172a,50:6d28d9,100:06b6d4&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer&descSize=22&descAlignY=62" width="100%"/>
 
-# Frontend Developer
+<a href="https://github.com/RitikBeriwal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+responsive+web+apps;React+%7C+Next.js+%7C+TypeScript;Currently+learning+Python+%7C+Django+%7C+PostgreSQL" alt="Typing SVG" />
+</a>
 
-### Responsive Web Apps • React Ecosystem • High-Performance UIs
+<br/>
 
-  <a href="https://www.linkedin.com/in/ritik-beriwal/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ritik_Beriwal-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=RitikBeriwal&label=Profile%20Views&color=6d28d9&style=for-the-badge"/>
 
-  <a href="mailto:ritikberiwal82@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br/><br/>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ritikberiwal82@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/RitikBeriwal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
----
+<br/>
 
-## About
+## 👨‍💻 About Me
 
-Frontend Developer with 1+ years of experience building responsive, high-performance user interfaces with React.js and modern web technologies. Focused on clean component architecture, efficient state management, performance optimization, and seamless collaboration with design and backend teams.
+```js
+const ritik = {
+  role: "Frontend Developer",
+  location: "Delhi, India",
+  education: "MCA — Lovely Professional University",
+  experience: "1+ years building React applications",
+  focus: ["Responsive UIs", "State Management", "Performance"],
+  currentlyLearning: ["Python", "Django", "PostgreSQL"],
+  openToWork: true,
+};
+```
 
----
+<br/>
 
-# Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Frontend         | Backend & APIs | Tools & Workflows |
-| ---------------- | -------------- | ----------------- |
-| React.js         | Node.js        | Git               |
-| Next.js          | Express.js     | GitHub            |
-| TypeScript       | MongoDB        | VS Code           |
-| Tailwind CSS     | RESTful APIs   | Figma             |
-| Redux Toolkit    |                |                   |
-| Ant Design       |                |                   |
-| Material UI      |                |                   |
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,materialui&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,figma&perline=7" />
 
 </div>
 
----
+**Also:** Ant Design • React Router • RESTful APIs
 
-# Experience
+<br/>
 
-**Frontend Developer** — Varience Cybertech, Delhi *(Jul 2025 – Aug 2026)*
+## 🚀 Featured Projects
 
-* Built dynamic UIs using React.js, React Hooks, and Ant Design
-* Managed application state with Redux Toolkit for scalable architecture
-* Designed responsive layouts with Tailwind CSS and ensured cross-browser compatibility
-* Collaborated with design and backend teams to deliver seamless user experiences
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**React JS Developer Intern** — Graphura Pvt. Ltd, Delhi *(Mar 2025 – Jun 2025)*
+### 🗳️ Voter Registry & Booth Dashboard
+Election-management dashboard with map-based booth visualization, voter search, and admin controls for large datasets.
 
-* Built responsive web apps with React.js, HTML5, CSS3, and Tailwind CSS
-* Applied mobile-first design and integrated REST APIs
-* Assisted in debugging UI issues and optimizing performance
+- Code splitting with `React.lazy`
+- Debounced search + memoized filtering
+- Reusable hooks across 15+ components
 
----
+`React.js` `Redux Toolkit` `React Router` `Leaflet`
 
-# Featured Projects
+</td>
+<td width="50%" valign="top">
 
-## Voter Registry & Booth Management Dashboard
+### 🥐 Bakery Management System
+Full-stack app with a real-time builder, complex state management, and a Super Admin dashboard.
 
-Full election-management dashboard with map-based booth visualization, voter search, and admin controls, built to handle large voter datasets.
+- Real-time builder workflow
+- Super Admin controls
+- MongoDB-backed data layer
 
-### Highlights
+`React.js` `Node.js` `Express.js` `MongoDB`
 
-* Route-based code splitting (React.lazy/Suspense) to cut initial bundle size
-* Debounced search and memoized (useMemo) filtering to reduce re-renders
-* Reusable custom hooks improving maintainability across 15+ components
-* Map-based booth visualization with admin controls
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Stack**
-`React.js` • `Redux Toolkit` • `React Router` • `Leaflet`
-
----
-
-## Furniture E-Commerce Website
-
+### 🛋️ Furniture E-Commerce Website
 Responsive, scalable e-commerce UI with pixel-perfect reusable components.
 
-### Highlights
+- Mobile-first design
+- SEO best practices
+- Fast loading performance
 
-* Reusable React component library
-* Mobile-first design
-* SEO best practices
-* Fast loading performance
+`React.js` `Next.js` `Tailwind CSS`
 
-**Stack**
-`React.js` • `Next.js` • `Tailwind CSS`
+</td>
+<td width="50%" valign="top">
 
----
+### 📇 CRM Dashboard
+Customer relationship management interface designed in Figma with responsive layouts.
 
-## Bakery Management System
+- Interactive navbar
+- Dynamic hero banners
+- Responsive layouts
 
-Full-stack application with a real-time builder, complex state management, and a Super Admin dashboard.
+`React.js` `Figma`
 
-### Highlights
+</td>
+</tr>
+</table>
 
-* Real-time builder workflow
-* Complex state management
-* Super Admin dashboard
-* MongoDB-backed user, product, and application data
+<br/>
 
-**Stack**
-`React.js` • `Node.js` • `Express.js` • `MongoDB`
+## 💼 Experience
 
----
+| Role | Company | Period |
+| --- | --- | --- |
+| Frontend Developer | Varience Cybertech, Delhi | Jul 2025 – Aug 2026 |
+| React JS Developer Intern | Graphura Pvt. Ltd, Delhi | Mar 2025 – Jun 2025 |
 
-# Education
+<br/>
 
-* **MCA** — Lovely Professional University, Punjab *(2023 – 2025, CGPA 7.5)*
-* **BCA** — Trinity Institute of Professional Studies, Delhi *(2020 – 2023, CGPA 8.9)*
-* **Diploma in Web Development & Designing** — Rooman Technologies, Delhi *(2023 – 2024)*
-
----
-
-# Engineering Interests
-
-```txt
-Responsive UI Development
-React Ecosystem
-State Management
-Performance Optimization
-Reusable Component Design
-Full-Stack Web Apps
-```
-
----
-
-# Learning Interests
-
-```txt
-Python
-Django
-PostgreSQL
-```
-
----
+## 🌱 Currently Learning
 
 <div align="center">
 
-### Open to Frontend & React Developer Opportunities
+<img src="https://skillicons.dev/icons?i=python,django,postgres&perline=3" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:2563eb"/>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RitikBeriwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikBeriwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=RitikBeriwal&theme=tokyonight&hide_border=true&background=0f172a" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🤝 Open to Frontend & React Developer Opportunities
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:6d28d9,100:06b6d4" width="100%"/>
 
 </div>
